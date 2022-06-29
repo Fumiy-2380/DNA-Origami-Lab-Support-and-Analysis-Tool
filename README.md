@@ -55,5 +55,7 @@ From there the user is ready to reactivate the virtual environment to open up ju
 Currently only the viewing of the thermal ramp suggested for the DNA nanostructure and the interactions between staple strands such as competitive binding to scaffold binding domains (strand similarity) and interactions between staple strands (complementarity) are supported. 
 #### Thermal Ramp
 By moving the sliders on the [Mg] Slider and [Na] Slider, the user can view the thermal ramp under various salt concnetration conditions. 
+![Slider Image](salt_slider.png)
 #### Staple Strand Interactions
-By choosing between strand similarity or complementarity, and the minimum number of nucleotides that match sequentially, the user can view the strand interactions, and the potentially problematic strands which are extremely similar in nucelotide sequence, or are strongly complementary to one another.
+By choosing between strand similarity or complementarity, and the minimum number of nucleotides that match sequentially, the user can view the strand interactions, and the potentially problematic strands which are extremely similar in nucelotide sequence, or are strongly complementary to one another.  
+![similarity_selection](match_widget.png)
